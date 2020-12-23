@@ -1,0 +1,19 @@
+{
+  "name": "grapify",
+  "version": "1.0.0",
+  "description": "Deploy Policy generator from template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalvoCozzubo/Grapify.git"
+  },
+  "author": "Salvatore Cozzubo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SalvoCozzubo/Grapify/issues"
+  },
+  "homepage": "https://github.com/SalvoCozzubo/Grapify#readme"
+}
